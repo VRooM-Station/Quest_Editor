@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 378945200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c7bbb68f3ec28710dbcffdaab79e6f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/cube_texture.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+Dependencies: []

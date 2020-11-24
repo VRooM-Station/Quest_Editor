@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1228437582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e12033bdd57dca04b16420dea07b7bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Right.TGA
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Roughness.tga
+- Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_Left.TGA
+Dependencies: []
